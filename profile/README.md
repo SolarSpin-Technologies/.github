@@ -33,7 +33,19 @@ SHIP WITH A HANDOVER
 - **Public case studies:** decision records that show the architecture without exposing private source, credentials or client-sensitive material.
 - **Research:** design science translated into working tools, repeatable methods and better handovers.
 
-Our wider body of work spans financial technology, mobility, emergency coordination, aviation, marine operations, agriculture, healthcare, education, local commerce, sport and music.
+Our wider body of work spans financial technology, mobility, emergency coordination, aviation, marine operations, agriculture, healthcare, education, beauty and service operations, local commerce, sport and music.
+
+## Latest client launch: NAILED & Lashed by Mona
+
+<p align="center">
+  <a href="https://monaluxe.pages.dev/"><img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%"></a>
+</p>
+
+A Windhoek beauty business now has one installable client and operations system: a real-work portfolio, transparent studio and house-call booking, return-client profiles, Mona Luxe Circle rewards and referrals, and a private CRM for bookings, payments, client value and loyalty.
+
+Mona Luxe Circle awards 8 Gloss Points per N$1 of eligible service spend, with 300 welcome points, a 1,000-point referrer reward and 500-point friend reward after an eligible first visit. Glow, Luxe and Icon begin at 0, 5,000 and 15,000 lifetime points; the four launch rewards unlock at 2,500, 5,000, 9,000 and 14,000 available points. Travel fees do not earn points, and rewards have no cash value.
+
+**[Enter Mona Luxe ↗](https://monaluxe.pages.dev/)** · **[Read the public case study ↗](https://github.com/freeman-ipumbu/monaluxe-case-study)**
 
 ## The public boundary
 
