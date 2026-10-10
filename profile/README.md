@@ -41,7 +41,7 @@ Our wider body of work spans financial technology, mobility, emergency coordinat
   <a href="https://monaluxe.pages.dev/"><img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%"></a>
 </p>
 
-A Windhoek beauty business now has one installable client and operations system: a real-work portfolio, transparent studio and house-call booking, return-client profiles, Mona Luxe Circle rewards and referrals, and a private CRM for bookings, payments, client value and loyalty.
+A Windhoek beauty business now has one installable client and operations system: a real-work portfolio, transparent studio and house-call booking, secure return-client accounts, Mona Luxe Circle rewards and referrals, and a private StudioDesk for bookings, financial oversight, client value and loyalty. Dedicated enquiries support beginner training with or without a kit, advanced nail-art training and lash training by request, while the enhanced identity extends into a delivery-ready social brand kit.
 
 Mona Luxe Circle awards 8 Gloss Points per N$1 of eligible service spend, with 300 welcome points, a 1,000-point referrer reward and 500-point friend reward after an eligible first visit. Glow, Luxe and Icon begin at 0, 5,000 and 15,000 lifetime points; the four launch rewards unlock at 2,500, 5,000, 9,000 and 14,000 available points. Travel fees do not earn points, and rewards have no cash value.
 
