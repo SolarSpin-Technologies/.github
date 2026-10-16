@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://solarspin-namibia.pages.dev/"><img alt="SolarSpin website" src="https://img.shields.io/badge/EXPERIENCE-SolarSpin-625BFF?style=for-the-badge&labelColor=071522"></a>
   <a href="https://freeman-ipumbu.pages.dev/"><img alt="Founder portfolio" src="https://img.shields.io/badge/FOUNDER-Freeman_Ipumbu-3FE0C5?style=for-the-badge&labelColor=071522"></a>
-  <a href="https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study"><img alt="Featured case study" src="https://img.shields.io/badge/CASE_STUDY-Open_record-FF4F78?style=for-the-badge&labelColor=071522"></a>
+  <a href="https://github.com/freeman-ipumbu/tpts-grid-case-study"><img alt="Featured case study" src="https://img.shields.io/badge/TPTS_GRID-Live_pilot-FF4F78?style=for-the-badge&labelColor=071522"></a>
 </p>
 
 ## We build systems that hold.
@@ -35,6 +35,16 @@ SHIP WITH A HANDOVER
 
 Our wider body of work spans financial technology, mobility, emergency coordination, aviation, marine operations, agriculture, healthcare, education, beauty and service operations, local commerce, sport and music.
 
+## Current platform launch: TPTS Grid
+
+**TPTS Grid** is a TPTS-owned, Namibia-first travel network built around the road between places—not only the room at the end of it. The live pilot combines a traveller-owned Route Studio, 21 real public destination anchors, MapLibre geography, and a direct owner claim and onboarding path.
+
+Travellers can compose, reorder, save and share their own Namibian journey. Independent properties can apply directly, but nothing publishes itself and no destination pin is presented as live OTA room inventory. The pilot processes no bookings or payments; any future approved payment or external travel-channel integration remains a governed next step rather than borrowed product identity.
+
+**Product owner:** TPTS Financial Technology Group. **Digital experience:** SolarSpin Technologies.
+
+**[Enter TPTS Grid ↗](https://tpts-grid.pages.dev/)** · **[Read the public product case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
+
 ## Latest client launch: NAILED & Lashed by Mona
 
 <p align="center">
@@ -55,6 +65,7 @@ Public proof is not the same thing as a production claim. Repositories clearly d
 
 - [Experience SolarSpin](https://solarspin-namibia.pages.dev/)
 - [Explore Freeman's full portfolio](https://freeman-ipumbu.pages.dev/)
+- [Enter TPTS Grid](https://tpts-grid.pages.dev/) and [inspect its public product case study](https://github.com/freeman-ipumbu/tpts-grid-case-study)
 - [Read the anonymous Fuel Retail Digital Platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)
 - [Inspect the published IT Handover Continuance research](https://doi.org/10.5281/zenodo.21840440)
 
