@@ -37,7 +37,7 @@ Our wider body of work spans financial technology, mobility, emergency coordinat
 
 ## Current platform launch: TPTS Grid
 
-**TPTS Grid** is a TPTS-owned, Namibia-first travel network built around the road between places—not only the room at the end of it. The live pilot combines a traveller-owned Route Studio, 21 real public destination anchors, MapLibre geography, and a direct owner claim and onboarding path.
+**TPTS Grid** is a TPTS-owned, Namibia-first travel network built around the road between places—not only the room at the end of it. The live pilot combines a traveller-owned Route Studio, 27 real public destination anchors, MapLibre geography, a 33-image-family photographic Namibia atlas with no cross-section repetition, and a direct owner claim and onboarding path.
 
 Travellers can compose, reorder, save and share their own Namibian journey. Independent properties can apply directly, but nothing publishes itself and no destination pin is presented as live OTA room inventory. The pilot processes no bookings or payments; any future approved payment or external travel-channel integration remains a governed next step rather than borrowed product identity.
 
