@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://solarspin-namibia.pages.dev/"><img alt="SolarSpin website" src="https://img.shields.io/badge/EXPERIENCE-SolarSpin-625BFF?style=for-the-badge&labelColor=071522"></a>
-  <a href="https://freeman-ipumbu.pages.dev/"><img alt="Founder portfolio" src="https://img.shields.io/badge/FOUNDER-Freeman_Ipumbu-3FE0C5?style=for-the-badge&labelColor=071522"></a>
-  <a href="https://github.com/freeman-ipumbu/tpts-grid-case-study"><img alt="Featured case study" src="https://img.shields.io/badge/TPTS_GRID-Live_pilot-FF4F78?style=for-the-badge&labelColor=071522"></a>
+  <a href="https://www.solarspin-namibia.xyz/"><img alt="SolarSpin live experience" src="https://img.shields.io/badge/LIVE_EXPERIENCE-solarspin--namibia.xyz-625BFF?style=for-the-badge&labelColor=071522"></a>
+  <a href="https://www.solarspin-namibia.xyz/#work"><img alt="Public Atlas with 30 systems" src="https://img.shields.io/badge/PUBLIC_ATLAS-30_SYSTEMS-3FE0C5?style=for-the-badge&labelColor=071522"></a>
+  <a href="https://github.com/freeman-ipumbu"><img alt="Founder Freeman Ipumbu" src="https://img.shields.io/badge/FOUNDER-FREEMAN_IPUMBU-FF4F78?style=for-the-badge&labelColor=071522"></a>
 </p>
 
 ## We build systems that hold.
 
-SolarSpin Technologies is a Namibia-born technology and product company founded by [Freeman Ipumbu](https://github.com/freeman-ipumbu).
+SolarSpin Technologies is a Namibia-born technology and product company founded by [Freeman Ipumbu](https://github.com/freeman-ipumbu) in Windhoek.
 
-We work where the interface meets the operating reality underneath it. Product strategy, system architecture, infrastructure, access, recovery, evidence, privacy, support and handover all belong to the same system.
+We work where the interface meets the operating reality underneath it. Product strategy, system architecture, infrastructure, access, recovery, evidence, privacy, support and handover belong to the same system.
 
 ```text
 UNDERSTAND THE REAL CONDITIONS
@@ -26,47 +26,60 @@ TEST THE FAILURE EDGES
 SHIP WITH A HANDOVER
 ```
 
-## What lives here
-
-- **Products:** Namibia-first platforms built around real operating conditions.
-- **Client experiences:** selected digital systems developed with explicit commercial and confidentiality boundaries.
-- **Public case studies:** decision records that show the architecture without exposing private source, credentials or client-sensitive material.
-- **Research:** design science translated into working tools, repeatable methods and better handovers.
-
-Our wider body of work spans financial technology, mobility, emergency coordination, aviation, marine operations, agriculture, healthcare, education, beauty and service operations, local commerce, sport and music.
-
-## Current platform launch: TPTS Grid
-
-**TPTS Grid** is a TPTS-owned, Namibia-first travel network built around the road between places—not only the room at the end of it. The live pilot combines a traveller-owned Route Studio, 27 real public destination anchors, MapLibre geography, a 33-image-family photographic Namibia atlas with no cross-section repetition, and a direct owner claim and onboarding path.
-
-Travellers can compose, reorder, save and share their own Namibian journey. Independent properties can apply directly, but nothing publishes itself and no destination pin is presented as live OTA room inventory. The pilot processes no bookings or payments; any future approved payment or external travel-channel integration remains a governed next step rather than borrowed product identity.
-
-**Product owner:** TPTS Financial Technology Group. **Digital experience:** SolarSpin Technologies.
-
-**[Enter TPTS Grid ↗](https://tpts-grid.pages.dev/)** · **[Read the public product case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
-
-## Latest client launch: NAILED & Lashed by Mona
-
 <p align="center">
-  <a href="https://monaluxe.pages.dev/"><img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%"></a>
+  <a href="https://www.solarspin-namibia.xyz/">
+    <img src="https://raw.githubusercontent.com/freeman-ipumbu/solarspin-website-case-study/main/assets/screenshots/hero-desktop.webp" width="100%" alt="SolarSpin Technologies live orbital headquarters">
+  </a>
 </p>
 
-A Windhoek beauty business now has one installable client and operations system: a real-work portfolio, transparent studio and house-call booking, secure return-client accounts, Mona Luxe Circle rewards and referrals, and a private StudioDesk for bookings, financial oversight, client value and loyalty. Dedicated enquiries support beginner training with or without a kit, advanced nail-art training and lash training by request, while the enhanced identity extends into a delivery-ready social brand kit.
+## The live system
 
-Mona Luxe Circle awards 8 Gloss Points per N$1 of eligible service spend, with 300 welcome points, a 1,000-point referrer reward and 500-point friend reward after an eligible first visit. Glow, Luxe and Icon begin at 0, 5,000 and 15,000 lifetime points; the four launch rewards unlock at 2,500, 5,000, 9,000 and 14,000 available points. Travel fees do not earn points, and rewards have no cash value.
+SolarSpin's digital headquarters is an experience, not a brochure:
 
-**[Enter Mona Luxe ↗](https://monaluxe.pages.dev/)** · **[Read the public case study ↗](https://github.com/freeman-ipumbu/monaluxe-case-study)**
+- **Solar Day / Interstellar Night:** two complete atmospheres, initially aligned to Windhoek light and still under the visitor's control.
+- **One engine, clear relationships:** an interactive map connects founder judgement, SolarSpin, owned ventures, commercial work, research and internal systems without blurring ownership.
+- **30-system Public Atlas:** four interactive orbits present public proof with status, role, attribution and release boundaries attached.
+- **The Gravity Table:** “What are you carrying?” becomes a six-stage, human-readable brief protected by Turnstile, validation, privacy-conscious rate limits, idempotent storage and a visible email fallback.
+- **System Pulse:** the public health signal reports intake, archive, shield and courier state without exposing messages or secrets.
+- **A cosmic close:** Milky Way → Solar System → Earth → Africa → Namibia → Windhoek, ending with “You've now had a SolarSpin Experience.”
 
-## The public boundary
+**[Enter the SolarSpin Experience ↗](https://www.solarspin-namibia.xyz/)** · **[Read the public website build record ↗](https://github.com/freeman-ipumbu/solarspin-website-case-study)**
 
-Public proof is not the same thing as a production claim. Repositories clearly distinguish research, prototypes, controlled pilots and live experiences. Private source, secrets and client-confidential material remain private.
+## The Public Atlas
+
+| Orbit | Systems | What it proves |
+| --- | ---: | --- |
+| **Owned Universe** | 4 | Founder ventures and long-horizon product conviction |
+| **Command + Operations** | 12 | Operational systems, coordination, evidence and technical leadership |
+| **Digital Experiences** | 11 | Identity, service, commerce and client-facing product work |
+| **Research + Build Records** | 3 | Published research, build evidence and transferable methods |
+
+Current public signals include:
+
+- [Ontoko Foods](https://github.com/freeman-ipumbu/ontoko-foods-case-study): live story, ordering, mapping and protected farm operations
+- [TPTS Grid](https://github.com/freeman-ipumbu/tpts-grid-case-study): TPTS-owned Namibia travel network with a SolarSpin-built digital experience
+- [JB.Braids](https://github.com/freeman-ipumbu/jb-braids-case-study): installable booking, Crown Club and private studio operations
+- [NAILED & Lashed by Mona](https://github.com/freeman-ipumbu/monaluxe-case-study): booking, loyalty, training and StudioDesk
+- [PDM Namibia](https://github.com/freeman-ipumbu/pdm-namibia-case-study): national civic and operations platform programme
+- [IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440): published Design Science Research on living operational knowledge
+
+## Public proof. Private production.
+
+The public repositories are case studies and decision records. They show the thinking, interaction evidence, architecture and honest limits of the work. Production source, credentials, deployment secrets, client records, protected commercial material and private analytics stay private.
+
+The boundaries are specific, not ceremonial:
+
+- client and partner ownership is named where it matters;
+- controlled pilots are not described as production services;
+- the fuel-retail prospect remains anonymous;
+- TPTS work is attributed to technical leadership through TPTS Namibia where appropriate;
+- screenshots exclude credentials, private records and customer information;
+- the live SolarSpin site deploys from its private production repository, while the public website case study remains a presentation-safe build record.
 
 ## Start here
 
-- [Experience SolarSpin](https://solarspin-namibia.pages.dev/)
-- [Explore Freeman's full portfolio](https://freeman-ipumbu.pages.dev/)
-- [Enter TPTS Grid](https://tpts-grid.pages.dev/) and [inspect its public product case study](https://github.com/freeman-ipumbu/tpts-grid-case-study)
-- [Read the anonymous Fuel Retail Digital Platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)
-- [Inspect the published IT Handover Continuance research](https://doi.org/10.5281/zenodo.21840440)
+- **Carrying an untidy operation, a product idea, a live system or an identity that no longer fits?** [Put it on the Gravity Table](https://www.solarspin-namibia.xyz/#contact).
+- **Want the full public proof?** [Open the 30-system Public Atlas](https://www.solarspin-namibia.xyz/#work).
+- **Want the founder behind the system?** [Meet Freeman Ipumbu](https://freeman-ipumbu.pages.dev/).
 
-<sub>Windhoek, Namibia. Founded November 2025.</sub>
+<sub>Windhoek, Namibia · Founded November 2025 · The source is private. The thinking is visible. The standard is public.</sub>
